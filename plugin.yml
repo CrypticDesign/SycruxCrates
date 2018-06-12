@@ -1,1 +1,7 @@
-
+name: SycruxCrates
+description: A plugin for crates in SycruxPvP
+authors:
+  -Mintical
+  -efbsmash
+version: 1.0.0
+api: [3.0.0-ALPHA12]
